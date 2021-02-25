@@ -1,4 +1,6 @@
-### Hi, I'm André Luiz! 👋
+# André Luiz! 👋
+
+I'm a front end developer and a new technology enthusiast
 
 <!--
 **AndreLuizMag/AndreLuizMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
