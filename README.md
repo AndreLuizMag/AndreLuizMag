@@ -2,9 +2,11 @@
 
 I'm a front end developer and a new technology enthusiast
 
-<a href="https://app.daily.dev/andreluizmag"><img src="https://api.daily.dev/devcards/v2/yEssKkyns.png?type=default&r=itp" width="356" alt="André Luiz's Dev Card"/></a>
 
 <!--
+<a href="https://app.daily.dev/andreluizmag"><img src="https://api.daily.dev/devcards/v2/yEssKkyns.png?type=default&r=itp" width="356" alt="André Luiz's Dev Card"/></a>
+
+
 **AndreLuizMag/AndreLuizMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
