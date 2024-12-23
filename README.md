@@ -2,6 +2,9 @@
 
 I'm a front end developer and a new technology enthusiast
 
+<br/>
+
+![AndreLuizMag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizMag&show_icons=true&theme=tokyonight)
 
 <!--
 <a href="https://app.daily.dev/andreluizmag"><img src="https://api.daily.dev/devcards/v2/yEssKkyns.png?type=default&r=itp" width="356" alt="André Luiz's Dev Card"/></a>
