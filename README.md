@@ -1,34 +1,20 @@
-# 👋 Hi! I'm André
+### Hi! I’m André Luiz!
+I'm a design engineer passionate about my craft, always exploring, learning, and growing with technology.
 
-I'm a passionate enthusiast of new technologies, always tuned into the latest trends and innovations in the web development world. I love exploring new tools, languages, and frameworks, constantly striving to grow as a developer and contribute to the community.
+<br />
 
-<br/>
+#### Work
+I currently work at Brazil’s largest financial credit platform, [Bevi](https://bevioficial.com.br/).
 
-## 🛠️ Technologies I work with
-- HTML, CSS, SASS
-- JavaScript, TypeScript
-- React, Next.js
+I also take on freelance projects.
 
-I'm highly familiar with the modern front-end ecosystem, building rich, accessible, and high-performance user interfaces.
+#### Projects
+I’m the creator of [Helixify](https://helixify.dev/), my passion project.
 
-<br/>
+At [Bevi](https://bevioficial.com.br/), I’ve launched production-ready libraries such as [bevi-icon](https://github.com/BeviProjects/bevi-icon) and [bevi-css](https://github.com/BeviProjects/bevi-css),
 
-## 🚀 Featured Projects
-
-### 🌐 [Helixify](https://github.com/Helixify)
-An organization I founded to develop open-source projects that promote best practices, standardization, and productivity for everyone involved in web development.
-
-- [**Helix CSS**](https://github.com/Helixify/helix-css): A lightweight, modular CSS framework built for scalability.
-- [**Helix Color**](https://github.com/Helixify/helix-color): A neutral, accessible color standard for modern projects.
-- **Helix UI**: A library of practical and primitive React components.
-
-<br/>
-
-## 💡 What drives me
-
-I'm driven by curiosity and a constant desire to learn. I believe in the power of open-source and collaboration to build a stronger, more inclusive, and more innovative ecosystem.
+and built websites like [Beviconsórcio](https://beviconsorcio.com.br/), [Aniversary landingpage](https://20anos.bevioficial.com.br/), and others.
 
 ---
 
-📬 Feel free to send me a message or contribute to a project — I love sharing ideas, collaborating, and building together!
-
+You can find more about me here: [andreluizmagjr.com](https://andreluizmagjr.com/)
