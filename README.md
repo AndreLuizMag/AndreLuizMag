@@ -11,9 +11,9 @@ I also take on freelance projects.
 #### Projects
 I’m the creator of [Helixify](https://helixify.dev/), my passion project.
 
-At [Bevi](https://bevioficial.com.br/), I’ve launched production-ready libraries such as [bevi-icon](https://github.com/BeviProjects/bevi-icon) and [bevi-css](https://github.com/BeviProjects/bevi-css),
+At [Bevi](https://bevioficial.com.br/), I’ve launched production-ready libraries such as [bevi-icon](https://github.com/BeviProjects/bevi-icon) and [bevi-css](https://github.com/BeviProjects/bevi-css).
 
-and built websites like [Beviconsórcio](https://beviconsorcio.com.br/), [Aniversary landingpage](https://20anos.bevioficial.com.br/), and others.
+And built websites like [Beviconsórcio](https://beviconsorcio.com.br/), [Aniversary landingpage](https://20anos.bevioficial.com.br/), and others.
 
 ---
 
